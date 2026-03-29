@@ -9,3 +9,7 @@ h2 {
     padding: 0cm;
     flex-wrap: nowrap;
 }
+
+head {
+    background-color: black;
+}
